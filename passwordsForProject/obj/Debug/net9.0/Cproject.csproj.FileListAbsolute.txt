@@ -1,0 +1,17 @@
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\bin\Debug\net9.0\Cproject.exe
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\bin\Debug\net9.0\Cproject.deps.json
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\bin\Debug\net9.0\Cproject.runtimeconfig.json
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\bin\Debug\net9.0\Cproject.dll
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\bin\Debug\net9.0\Cproject.pdb
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\obj\Debug\net9.0\Cproject.csproj.AssemblyReference.cache
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\obj\Debug\net9.0\Cproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\obj\Debug\net9.0\Cproject.AssemblyInfoInputs.cache
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\obj\Debug\net9.0\Cproject.AssemblyInfo.cs
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\obj\Debug\net9.0\Cproject.csproj.CoreCompileInputs.cache
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\obj\Debug\net9.0\Cproject.csproj.Up2Date
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\obj\Debug\net9.0\Cproject.dll
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\obj\Debug\net9.0\refint\Cproject.dll
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\obj\Debug\net9.0\Cproject.pdb
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\obj\Debug\net9.0\Cproject.genruntimeconfig.cache
+C:\Users\Princ\OneDrive\Documents\passwordsForProject\obj\Debug\net9.0\ref\Cproject.dll

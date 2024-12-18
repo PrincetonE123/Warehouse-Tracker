@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iyJDyZLwKgI=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Princ\\OneDrive\\Documents\\passwordsForProject\\Cproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Princ\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
